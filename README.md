@@ -16,4 +16,4 @@ https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 # How to Run
 To run the Python File Python notebook that contains all the code, please run the following line in the project directory:
 
-$ jupyter notebook
+* $ jupyter notebook 
